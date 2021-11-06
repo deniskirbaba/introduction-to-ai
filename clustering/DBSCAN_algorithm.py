@@ -6,8 +6,6 @@ dbscan = DBSCAN(eps=0.5, min_samples=5)
 
 dbscan.fit(iris.data)
 
-print(dbscan.labels_)
-
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as pl
 import matplotlib
