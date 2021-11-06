@@ -1,8 +1,8 @@
 ## K-NN algorithm ##
 
-The algorithm was tested on the classification of cat breeds by photograph
+The algorithm was tested on the classification of cats and dogs breeds by photograph
 
-Dataset (containing 7381 photos) was used for training and testing
+Dataset (containing 7381 photos) was used for training and testing https://www.kaggle.com/zippyz/cats-and-dogs-breeds-classification-oxford-dataset
 
 k = 3
 
