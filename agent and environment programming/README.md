@@ -8,3 +8,7 @@ An agent's state of belief is an estimate of the average price of the paper and 
 spent.
 
 The environment accepts the actions of agents, updates its internal state and returns perceptions.
+
+Example of output:
+
+![image](https://user-images.githubusercontent.com/75897943/140613586-17331559-aac4-4ec5-8dfa-9fd2b0119e10.png)
