@@ -70,6 +70,7 @@ time.sleep(1.0)
 
 # loop over frames from the video stream
 while True:
+    
     # grab the frame from the threaded video file stream,
     # resize it, and convert it ti grayscale channels
     frame = vs.read()
@@ -143,6 +144,7 @@ while True:
     # if the 'q' key was pressed, break from the loop
     if key == ord("q"):
         break
+
 # do a bit of cleanup
 cv2.destroyAllWindows()
 vs.stop()

@@ -1,6 +1,6 @@
 ## Sleepiness detector ##
 
-This program monitors a person's eyes and, if the eyes are closed, it plays the alarm melody and displays the text on the screen.
+This program monitors a person's eyes and, if the eyes are closed, it plays the alarm *alarm.wav* melody and displays the text on the screen.
 
 I used this(https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat) predictor for detecting keypoints from faces.
 
